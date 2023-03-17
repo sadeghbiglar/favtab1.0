@@ -1,0 +1,101 @@
+
+  * {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    box-sizing: border-box;
+    background: none;
+    border: none;
+    outline: none;
+  
+    color: white;
+    font-family: "Vazirmatn", sans-serif;
+  }
+  
+  body {
+    margin: 0;
+    background-image: url(background.jpg);
+    background-size: cover;
+    font-family: "Vazirmatn",Arial, sans-serif;
+  }
+  
+  .container {
+    padding: 20px;
+    max-width: 1400px;
+    margin: 0 auto;
+  }
+  
+  .header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .column {
+    flex: 1;
+    margin: 10px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border: 1px solid gray;
+    padding: 10px;
+    text-align: center;
+    color: aliceblue;
+    
+  }
+  
+  .column h2 {
+    margin-top: 0;
+    font-size: 15px;
+    color: lawngreen;
+  }
+  
+  .links a {
+    margin-top: 10px;
+    display: block;
+    margin-bottom: 10px;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    
+  }
+  .time-date {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  form {
+    position: relative;
+  }
+  
+  input {
+    border-bottom: 2px solid;
+    display: block;
+    width: 100%;
+    padding: 0.5rem;
+    font-size: 1.2rem;
+    text-align: center;
+  }
+  
+  input::placeholder {
+    color: white;
+  }
+  
+  button {
+    width: 1.5rem;
+    height: 1.5rem;
+    background-image: url("search.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  
+    position: absolute;
+  
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+  .pointer{cursor: pointer;}

@@ -1,0 +1,88 @@
+<links>
+  <group title="شبکه های اجتماعی">
+    <link url="https://www.google.com">گوگل</link>
+    <link url="https://www.instagram.com">اینستاگرام</link>
+    <link url="https://www.youtube.com">یوتیوب</link>
+    <link url="https://www.twitter.com">توییتر</link>
+    <link url="https://www.gmail.com">جیمیل</link>
+    <link url="https://web.igap.net/app">آیگپ</link>
+    <link url="https://web.bale.ai/home">بله</link>
+    <link url="https://web.eitaa.com/#/im">ایتا</link>
+    <link url="https://web.rubika.ir">روبیکا</link>
+    <link url="https://web.telegram.org">تلگرام</link>
+    <link url="https://web.whatsapp.com">واتس اپ</link>
+    <link url="https://telegra.ph/"> تلگراف</link>
+  </group>
+  <group title="بانکی واداری">
+    <link url="https://bsi.ir/">بانک صادرات</link>
+    <link url="https://ib.qmb.ir/webbank/login/loginPage.action?ibReq=WEB">بانک مهرایران</link>
+    <link url="http://edun.iau.ac.ir/Education/Pages/acmstd/loginPage.jsp">آموزشیار</link>
+    <link url="https://didgah5.zums.ac.ir/">اتوماسیون اداری</link>
+    <link url="https://login.blockchain.com/en/#/home">صرافی بلاک چین</link>
+    <link url="https://nobitex.ir/app/verification/bank-card">نوبیتکس</link>
+    <link url="https://www.mofidonline.com/Account/Login">کارگزاری مفید</link>
+    <link url="https://online.daybroker.ir/Account/Login">کارگزاری دی</link>
+    <link url="https://www.bmi.ir/">بانک ملی</link>
+    <link url="https://www.irancell.ir">ایرانسل</link>
+    <link url="https://adsl.tci.ir/">مخابرات</link>
+    <link url="https://behtime.ir/main/">بهتایم</link>
+
+  </group>
+  <group title="صفحات مورد علاقه">
+    <link url="https://fa.wikipedia.org/wiki/%D8%B5%D9%81%D8%AD%D9%87%D9%94_%D8%A7%D8%B5%D9%84%DB%8C">ویکی پدیا فارسی</link>
+    <link url="https://github.com/sadeghbiglar">گیت هاب</link>
+    <link url="https://www.arvancloud.ir/fa">ابر آروان</link>
+    <link url="https://hostiran.net/">هاست ایران</link>
+    <link url="https://www.haio.ir/">هایو</link>
+    <link url="https://www.picofile.com/">پیکوفایل</link>
+    <link url="https://basalam.com/igool">آی گل </link>
+    <link url="https://basalam.com/">باسلام</link>
+    <link url="https://www.digikala.com/">دیجی کالا</link>
+    <link url="https://www.digiboy.ir/">دیجی بوی</link>
+    <link url="https://officebaz.ir/"> آفیس باز</link>
+    <link url="https://www.onlinegdb.com/">جی دی بی آنلاین</link>
+  </group>
+  <group title="صفحات مورد علاقه">
+    <link url="https://downloadly.ir/">دانلودلی</link>
+    <link url="https://virgool.io/">ویرگول</link>
+    <link url="https://roocket.ir/">راکت</link>
+    <link url="https://www.daneshjooyar.com/">دانشجویار</link>
+    <link url="https://www.aparat.com/">آپارات</link>
+    <link url="https://www.noavarangermi.ir/">نوآوران گرمی</link>
+    <link url="https://virus32.blog.ir/">بلاگ ویروس</link>
+    <link url="https://blog.faradars.org/">بلاگ فرادرس</link>
+    <link url="https://www.api.ir/">پورتال وبسرویس ها</link>
+    <link url="http://www.aliarash.com/article/codemeli/codemeli.htm">کد ملی شناس</link>
+    <link url="https://ganjoor.net/">گنجور</link>
+    <link url="https://www.shutterstock.com/search/cars">شاتر استاک</link>
+  </group>
+  <group title="صفحات مورد علاقه">
+    <link url="http://rooyansanat.com/calc/">جدول تبدیلات الکتریکی</link>
+    <link url="https://pdftoimage.com/">پی دی اف تو عکس</link>
+    <link url="https://linux1st.com/">ال پیک جادی</link>
+    <link url="https://www.freepikcompany.com/freepik">فری پیک</link>
+    <link url="https://all-free-download.com/free-vector/village.html">آل فری دانلود</link>
+    <link url="https://www.passwordmonster.com/">پسورد متر</link>
+    <link url="https://inflact.com/downloader/instagram/video/">اینستا دانلودر</link>
+    <link url="https://keep.google.com/u/0/#home">گوگل کیپ</link>
+    <link url="https://panel.iranicard.ir/login">ایرانی کارد</link>
+    <link url="https://yewtu.be/feed/popular">یوتیوب بی فیلتر</link>
+    <link url="https://panel.mihanpardakht.net/user/login">میهن پرداخت</link>
+    <link url="https://my.getsubly.com/login?redirect=%2Fmedia%2F9faba58f-e7b8-4abe-b79e-e48405c67387"> سابلای</link>
+  </group>
+  <group title="ابزارهای کاربردی">
+    <link url="https://stackoverflow.com/">استک اوور فلو</link>
+    <link url="https://laravel.com/">لاراول</link>
+    <link url="https://fontawesome.com/">فونت آوسام</link>
+    <link url="https://vuejs.org/">ویو جی اس</link>
+    <link url="https://map.ir/">مپ آی آر</link>
+    <link url="https://codebazan.ir/">کد بازان</link>
+    <link url="https://www.time.ir/">تایم</link>
+    <link url="https://www.vajehyab.com/">واژه یاب</link>
+    <link url="https://10minutemail.com/">ایمیل ده دقیقه ای</link>
+    <link url="http://jsonprettyprint.net/">جیسون پرینتر</link>
+    <link url="https://identity.getpostman.com/accounts?continue=https%3A%2F%2Fweb.postman.co%2Fonboarding%2Fuser">پست من</link>
+    <link url="https://www.cleanpng.com/">کلین پی ان جی</link>
+  </group>
+</links>
+
