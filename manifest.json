@@ -1,0 +1,8 @@
+{
+    "manifest_version" : 3,
+    "name" : "favtab", 
+    "description": "This is a Chrome Extension for new tabs->my favtab1.0",
+    "version" : "1.0",
+    "chrome_url_overrides" : { "newtab" : "test.html" },
+    "permissions" : [ "tabs","storage" ]
+  }
