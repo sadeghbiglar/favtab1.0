@@ -1,4 +1,4 @@
-fetch('https://vr1.s3.ir-thr-at1.arvanstorage.ir/links.xml')
+fetch('links.xml')
   .then(response => response.text())
   .then(xmlString => {
     const parser = new DOMParser();
